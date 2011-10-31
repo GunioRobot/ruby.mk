@@ -47,7 +47,7 @@
 
     vi db/seeds.rb
     rake db:seed
-  
+
 - Start the server
 
     ruby script/server

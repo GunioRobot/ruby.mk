@@ -41,5 +41,5 @@ production:
   database: ruby_mk_production
   pool: 5
   username: root
-  password: 
+  password:
   socket: /var/run/mysqld/mysqld.sock
